@@ -1,0 +1,15 @@
+
+=========================================
+        DATASET DOWNLOAD REPORT
+=========================================
+
+Total Cattle          : 74137
+Total Image URLs      : 229366
+
+Downloaded Images     : 0
+Already Exists        : 227029
+Duplicate URLs        : 2337
+Missing URLs          : 0
+Failed Downloads      : 0
+
+=========================================

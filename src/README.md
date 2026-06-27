@@ -8,6 +8,34 @@ Instead of manually organizing thousands of images, the system automatically rea
 
 The project is designed to handle **100,000+ cattle records** efficiently using parallel downloading and robust error handling.
 
+
+## 🏗️ System Architecture
+
+```text
+Excel Dataset
+      │
+      ▼
+Inspect Dataset
+      │
+      ▼
+Detect Cattle IDs
+      │
+      ▼
+Extract Image URLs
+      │
+      ▼
+Create Dataset Folders
+      │
+      ▼
+Parallel Image Downloader
+      │
+      ▼
+Generate Reports
+      │
+      ▼
+Benchmark Dataset
+```
+
 ---
 
 ## Features
